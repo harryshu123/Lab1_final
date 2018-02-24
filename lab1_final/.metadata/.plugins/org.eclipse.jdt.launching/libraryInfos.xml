@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\javaidk" version="1.8.0_121">
+<bootpath>
+<entry path="C:\javaidk\lib\resources.jar"/>
+<entry path="C:\javaidk\lib\rt.jar"/>
+<entry path="C:\javaidk\lib\sunrsasign.jar"/>
+<entry path="C:\javaidk\lib\jsse.jar"/>
+<entry path="C:\javaidk\lib\jce.jar"/>
+<entry path="C:\javaidk\lib\charsets.jar"/>
+<entry path="C:\javaidk\lib\jfr.jar"/>
+<entry path="C:\javaidk\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\javaidk\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\javaidk\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
